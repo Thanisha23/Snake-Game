@@ -1,7 +1,10 @@
 # Snake-Game
 # Snake Game with Sound Effects using HTML, CSS, and JavaScript
 
-![Snake Game Screenshot](screenshot.png)
+<div align="center" style="margin-top: 20px;">
+  <img src="./Screenshot.png" alt="Snake Game Screenshot" width=100%>
+</div>
+
 
 ## Introduction
 
