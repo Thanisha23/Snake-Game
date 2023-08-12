@@ -43,5 +43,5 @@ I would like to express my gratitude to the following resources that helped me i
 Enjoy the immersive gaming experience with sound effects! If you have any suggestions, issues, or ideas for improvement, please don't hesitate to [open an issue](https://github.com/your-username/snake-game/issues) or submit a pull request. Have a blast playing and coding!
 ## To visit the website,click on the link given below:
 
-##👉 https://snakerun-game.netlify.app/
+## 👉 https://snakerun-game.netlify.app/
 
